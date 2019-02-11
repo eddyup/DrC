@@ -36,7 +36,7 @@ Control 键拥有着比 Command 键更长历史。在传统的 Unix 系统中，
 
 - Control + K：删除光标后直到段落末端的内容。
 
-  ![img](.\Picture\2.gif)
+  ![img](./Picture/2.gif)
 
 #### 其他操作
 
@@ -46,7 +46,7 @@ Control 键拥有着比 Command 键更长历史。在传统的 Unix 系统中，
 
 - Control + L：将光标或所选内容置于编辑区域中央。
 
-  ![img](.\Picture\3.gif)
+  ![img](./Picture/3.gif)
 
 ### Option (⌥)
 
@@ -66,23 +66,23 @@ Control 键拥有着比 Command 键更长历史。在传统的 Unix 系统中，
 
 Option 键可以用来输入带有变音符的拉丁字母以及一些常用符号。
 
-![img](.\Picture\4.gif)
+![img](./Picture/4.gif)
 
 其中橙色按键表示的变音符号可以和元音字母结合。输入之后，再输入元音字母即可打出带有变音符号的字母。上图界面是系统自带的虚拟键盘，具体使用方式后文会提到。
 
 #### 显示替代菜单
 
-在菜单中按下 Option 键可以看到一些菜单变化，往往可以更快地找到某个功能，减少鼠标点击次数。![img](.\Picture\5.gif)例如，要打开「系统信息」，一般需要先点击「关于本机」，在跳出的窗口中点击「系统信息」。而按下 Option 后，「关于本机」菜单项直接变成了「系统信息」。
+在菜单中按下 Option 键可以看到一些菜单变化，往往可以更快地找到某个功能，减少鼠标点击次数。![img](./Picture/5.gif)例如，要打开「系统信息」，一般需要先点击「关于本机」，在跳出的窗口中点击「系统信息」。而按下 Option 后，「关于本机」菜单项直接变成了「系统信息」。
 
-![img](.\Picture\6.webp)
+![img](./Picture/6.webp)
 
 #### 显示额外的设置项
 
 在一些系统设置项中，按住 Option 键可以显示额外的按钮或选项，例如在「显示」设置中，按住 Option 键会出现「检测显示器」按钮。对于使用外接显示器的用户，按住 Option 键点击「缩放」选项会列出全部的可选分辨率。
 
-![img](.\Picture\7.gif)
+![img](./Picture/7.gif)
 
-在系统的许多界面中，都有类似的设计，例如在复制或移动文件遇到重名时，提示的对话框中按住 Option 键，会出现「跳过」的选项。![img](.\Picture\8.gif)
+在系统的许多界面中，都有类似的设计，例如在复制或移动文件遇到重名时，提示的对话框中按住 Option 键，会出现「跳过」的选项。![img](./Picture/8.gif)
 
 ## 修饰键 + 鼠标——唯快不破
 
@@ -94,16 +94,16 @@ Option 键可以用来输入带有变音符的拉丁字母以及一些常用符�
 
 按住 Command 键拖动菜单上的图标，即可改变他们的位置。
 
-![img](.\Picture\9.gif)
+![img](./Picture/9.gif)
 
 #### 操作下方窗口
 
 按住 Command 键后，对下方窗口的鼠标动作不会激活那些窗口。在一些操作场景中，可以避免频繁切换窗口，非常实用。
-![img](.\Picture\10.gif)
+![img](./Picture/10.gif)
 
 上图中，由于按住了 Command 键，右边的窗口始终没有失去焦点
 
-![img](.\Picture\11.gif)
+![img](./Picture/11.gif)
 
 
 
@@ -121,19 +121,19 @@ Option 键可以用来输入带有变音符的拉丁字母以及一些常用符�
 
 #### 灵活的窗口操作
 
-按住 Option 键点击关闭 / 最小化按钮，可以关闭 / 最小化所有的按钮。![img](.\Picture\12.gif)
+按住 Option 键点击关闭 / 最小化按钮，可以关闭 / 最小化所有的按钮。![img](./Picture/12.gif)
 
 按住 Option 键，全屏按钮会变为最大化按钮。
 
 
 
-![img](.\Picture\13.gif)
+![img](./Picture/13.gif)
 
 
 
 按住 Option 键调整窗口大小，会保持窗口的中心位置不变。
 
-![img](.\Picture\14.gif)
+![img](./Picture/14.gif)
 
 按住 Option 键切换窗口时会隐藏当前窗口；同时按住 Option + Command 键，则可以在切换窗口时隐藏所有其他窗口。
 
@@ -155,11 +155,11 @@ Option 键可以用来输入带有变音符的拉丁字母以及一些常用符�
 
 #### Finder 操作
 
-按住 Option 键拖动文件可以创建副本；同时按住 Option + Command 拖动文件则可以创建文件替身。![img](.\Picture\15.gif)
+按住 Option 键拖动文件可以创建副本；同时按住 Option + Command 拖动文件则可以创建文件替身。![img](./Picture/15.gif)
 
 
 
-按住 Option 键点击文件夹边上的展开按钮，可以展开所有子文件夹。![img](.\Picture\16.gif)
+按住 Option 键点击文件夹边上的展开按钮，可以展开所有子文件夹。![img](./Picture/16.gif)
 
 #### 其他
 
@@ -169,7 +169,7 @@ Option 键可以用来输入带有变音符的拉丁字母以及一些常用符�
 
 #### 快速选中
 
-相信大家都应该知道，按住 Command 键可以进行多选。而实际上按住 Shift 键，点击第一项和最后一项，可快速地选中两者间的项目。![img](.\Picture\17.webp)
+相信大家都应该知道，按住 Command 键可以进行多选。而实际上按住 Shift 键，点击第一项和最后一项，可快速地选中两者间的项目。![img](./Picture/17.webp)
 
 #### 触发慢动画
 
@@ -195,7 +195,7 @@ defaults write com.apple.dock slow-motion-allowed -bool NO && killall Dock
 
 可以在设置中调节按键重复的快慢以及触发延迟。
 
-![img](.\Picture\18.webp)
+![img](./Picture/18.webp)
 
 另外，对于一些元音字母，默认情况下长按它们出现变音字母，如果没有这一需求，可以使用下面的终端命令关闭它。
 
@@ -209,29 +209,29 @@ defaults write -g ApplePressAndHoldEnabled -bool NO
 defaults write -g ApplePressAndHoldEnabled -bool YES
 ```
 
-![img](.\Picture\19.webp)
+![img](./Picture/19.webp)
 
 ### 按不同键盘更改修饰键
 
-使用了外接键盘后，或是为了提高敲击效率，我们往往需要调整修饰键的位置。简单的修饰键调整可以直接在键盘设置中进行。例如，我将内置键盘的 CapsLock 键替换成了 ESC 键；将外置机械键盘的 CapsLock 键替换为了 Control 键，并交换了原 Windows 键和 Alt 键的位置。![img](.\Picture\20.webp)
+使用了外接键盘后，或是为了提高敲击效率，我们往往需要调整修饰键的位置。简单的修饰键调整可以直接在键盘设置中进行。例如，我将内置键盘的 CapsLock 键替换成了 ESC 键；将外置机械键盘的 CapsLock 键替换为了 Control 键，并交换了原 Windows 键和 Alt 键的位置。![img](./Picture/20.webp)
 
 ### 打开虚拟键盘和表情窗口
 
-上文介绍 Option 键的作用时，我们用到了 Keyboard Viewer，即 macOS 的内建虚拟键盘。在键盘设置中将相关设置项打上勾，即可通过输入法菜单调出虚拟键盘和表情检视器。其中的表情检视器亦可通过 Control + Command + 空格来打开。![img](.\Picture\21.webp)
+上文介绍 Option 键的作用时，我们用到了 Keyboard Viewer，即 macOS 的内建虚拟键盘。在键盘设置中将相关设置项打上勾，即可通过输入法菜单调出虚拟键盘和表情检视器。其中的表情检视器亦可通过 Control + Command + 空格来打开。![img](./Picture/21.webp)
 
 > （在macOS 的「辅助功能 (Accessibility)」中，可以找到另一个屏幕键盘，与 Keyboard Viewer 不同的是，它不会高亮显示当前按下的按键）。
 
 ### 文本和符号的替换
 
-在「文本」一栏可以修改与文本替换相关的设置。此处的列表会通过 iCloud 与 iOS 设备同步。![img](.\Picture\22.webp)
+在「文本」一栏可以修改与文本替换相关的设置。此处的列表会通过 iCloud 与 iOS 设备同步。![img](./Picture/22.webp)
 
 ### 自定义 macOS 快捷键
 
-在「快捷键」一栏中可以自定义许多系统快捷键。例如，我根据自己的使用需求，将切换输入法的快捷键从 Control + 空格换成了 Command + 空格，使按键更统一。![img](.\Picture\23.gif)
+在「快捷键」一栏中可以自定义许多系统快捷键。例如，我根据自己的使用需求，将切换输入法的快捷键从 Control + 空格换成了 Command + 空格，使按键更统一。![img](./Picture/23.gif)
 
 ### 使用 Tab 键在所有控件之间切换
 
-默认情况下，macOS 的 Tab 键只能在文本控件键移动焦点，而这一选项可以在上图「快捷键」设置中修改。![img](.\Picture\24.webp)
+默认情况下，macOS 的 Tab 键只能在文本控件键移动焦点，而这一选项可以在上图「快捷键」设置中修改。![img](./Picture/24.webp)
 			选中「所有控制」后，Tab 键才能在各种控件之间移动焦点
 
 
