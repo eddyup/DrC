@@ -26,7 +26,7 @@ Control 键拥有着比 Command 键更长历史。在传统的 Unix 系统中，
 
   相等于 ↑ (**P**revious) / ↓ ( **N**ext ) 。
 
-  ![img](.\Picture\1.gif)
+  ![img](./Picture/1.gif)
 
 #### 删除文本
 
