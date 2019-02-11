@@ -1,6 +1,6 @@
 # Readme
-This is a project which contains some comments to some daily software
+This is a project which contains some hacks to macOS and comments to some daily software
 
-- I1
+- Hacks to macOS: macOS-CheatSheet.
 
-- I2
+- to be continue.
